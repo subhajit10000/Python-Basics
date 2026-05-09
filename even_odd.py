@@ -1,5 +1,6 @@
 # Write a python program to check given number by the user is even or odd.
-'''
+
+
 20%2=0
 
 '''
